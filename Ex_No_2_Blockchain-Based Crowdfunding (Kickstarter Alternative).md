@@ -1,4 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+### NAME: HARITHA RAMESH
+### REG NO:212223100011
+### DEPARTMENT: CSE(CYBER SECURITY)
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
